@@ -5,7 +5,7 @@ This project involves performing data analysis and designing a dashboard in Powe
 
 The goal is to identify service delivery problems and provide actionable insights to improve customer satisfaction and retain key customers before expanding to new markets.
 
---
+---
 
 ## Problem Statement
 This FMCG manufacturer operates in Surat, Ahmedabad, and Vadodara and plans to expand to other metro and Tier-1 cities in the next two years. However, service delivery issues have resulted in a few key customers not renewing their annual contracts. The suspected issues include:
