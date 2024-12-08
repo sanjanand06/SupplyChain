@@ -34,6 +34,8 @@ The analysis is based on the following datasets:
 4. **dim_target_orders**: Target service levels for each customer.
 5. **fact_order_line**: Order line details (placement, delivery, quantity, delays).
 6. **fact_orders_level**: Aggregate metrics at the order level (OT%, IF%, OTIF%).
+    ![Data Model](Data Model.png)
+
 
 
 ---
