@@ -1,4 +1,4 @@
-w# Supply Chain Analysis
+
 
 ## About the Project
 This project involves performing data analysis and designing a dashboard in Power BI to address critical supply chain issues faced by a growing FMCG manufacturer in Gujarat, India. 
