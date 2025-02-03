@@ -16,8 +16,8 @@ This FMCG manufacturer operates in Surat, Ahmedabad, and Vadodara and plans to e
 
 ## KPI considered
 
-- Orders not being delivered **on time**.
-- Orders not being delivered **in full**
+- Number of orders delivered **on time**.
+- Number of orders delivered **in full**
 - On Time Delivery **OT%**
 - In Full Delivery **IF%**
 - On Time In Full **OTIF%**
